@@ -12,6 +12,7 @@ altair = "^5.1.2"
 pandas = "^2.1.3"
 jupyter = "^1.0.0"
 altair-viewer = "^0.4.0"
+geopandas = "^0.14.1"
 
 
 [build-system]
