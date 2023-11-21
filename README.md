@@ -30,7 +30,7 @@ This kind of animation is helpful to see the spatio-temporal evolution of dengue
 This kind of plot is interesting to see the spatio-temporal evolution of dengue cases.
 
 
-![alt text](https://raw.githubusercontent.com/eduardocorrearaujo/visualization/forecast_plot/cases/figures/heatmap_dengue.png)
+![heatmap](https://raw.githubusercontent.com/eduardocorrearaujo/visualization/forecast_plot/cases/figures/heatmap_dengue.png)
 
 * In the `cases_by_week.ipynb` a heatmap of dengue incidence over the years using the package altair:  
 
@@ -45,4 +45,4 @@ This plot is helpful to see the temporal evolution of dengue cases in the differ
 
 This kind of plot is interesting to compare the performance of different forecast models.
 
-![alt text](https://raw.githubusercontent.com/eduardocorrearaujo/visualization/forecast_plot/forecasts/figures/forecast_dengue.png)
+![forecasts](./forecasts/figures/forecast_dengue.png)
