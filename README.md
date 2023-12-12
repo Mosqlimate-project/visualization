@@ -7,7 +7,7 @@ By now, the visualizations are separated by what they want to show. Plots to sho
 
 There is available the code to generate the following figures:
 
-* In the `altair_map.ipynb` a choropleth map of dengue incidence using the package altair:  
+* In the notebook [`altair_map.ipynb`](cases/altair_map.ipynb) a choropleth map of dengue incidence using the package altair:  
 
 This kind of plot is interesting to see the spatial distribution of dengue cases. 
 
