@@ -11,3 +11,10 @@ Várias métricas podem ser representadas espacialmente, como forma de aferiçã
 
 ![acuracia](../cases/acuracia.svg)
 
+Também podemos obter o mapa do Mathews Correlation Coefficient (MCC), que é uma métrica que leva em consideração os falsos positivos e falsos negativos do modelo.
+
+![mcc](../cases/MCC.png)
+
+ou ainda uma visualização da revocação (recall) do modelo.
+
+![recall](../cases/recall.png)
