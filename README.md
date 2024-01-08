@@ -66,4 +66,4 @@ In the selection box you can select a metric between the option: MAE, MSE, RMSE,
 Selecting cities in the map will show the interval predicted in the bar plot. 
 
 
-![forecasts](./forecasts/figures/spatial_viz.png)
+![forecasts](./forecasts/figures/spatial_viz_MG.png)
