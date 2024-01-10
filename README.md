@@ -46,3 +46,24 @@ This plot is helpful to see the temporal evolution of dengue cases in the differ
 This kind of plot is interesting to compare the performance of different forecast models.
 
 ![forecasts](./forecasts/figures/forecast_dengue.png)
+
+
+### Error bar of forecast
+
+* In the `bar_error.ipynb`, there is a plot of the error bar of the forecast models:  
+
+This kind of plot is interesting to compare the performance of different forecast models.
+
+![forecasts](./forecasts/figures/bar_error.png)
+
+In the selection box you can select a metric between the option: MAE, MSE, RMSE, MSLE.
+
+
+## Spatial forecasts visualization 
+
+* In the `spatial_viz.ipynb` there is a map of the total cases predicted for a specific year. In the superior plot, the cities in a state are colored according to the number of cases predicted for the next year. In the below plot - horizontal bar - the bar represents the total cases reported, and the lines represent the interval of values predicted by the model. The point is the mean value predicted. The scale color used by the predictions (map) and cases reported (horizontal bar) is the same. 
+
+Selecting cities in the map will show the interval predicted in the bar plot. 
+
+
+![forecasts](./forecasts/figures/spatial_viz_MG.png)
